@@ -87,7 +87,8 @@ INTENT_PROTOTYPES = {
     ],
     "DECADE_LEADER": [
         "alero con mas triples en la decada de los 90", 
-        "maximo anotador decada 80"
+        "maximo anotador decada 80",
+        "maximo reboteador de la decada de los 2000"
     ],
     "COMPARE_PLAYERS": [
         "comparar lebron james y pau gasol",
@@ -111,7 +112,8 @@ INTENT_PROTOTYPES = {
     ],
     "TEAM_RANKING": [
         "top 5 equipos mas anotadores", 
-        "equipo con mas derrotas"
+        "equipo con mas derrotas",
+        "Equipo con mas victorias"
     ],
     "COLLEGE_STATS": [
         "jugadores de duke", 
@@ -258,7 +260,7 @@ def resolve_stat_columns(query):
         "puntos": ("PTS", "Puntos"),
         "anota": ("PTS", "Puntos"),
         "porcentaje de tiro": ("FG", "Porcentaje TC"),
-        "porcentaje": ("FG", "Porcentaje")
+        "porcentaje": ("FG", "Porcentaje"),
     }
     
     if "porcentaje" in q_norm or "efectividad" in q_norm:
