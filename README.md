@@ -26,17 +26,6 @@ streamlit run app.py
 
 Esto iniciará la aplicación en Streamlit y permitirá interactuar con el chatbot desde el navegador.
 
-Estructura del repositorio
-NBA_Chatbot/
-│
-├── app.py                 # Aplicación principal en Streamlit
-├── Mario.ipynb            # Notebook que genera el dataset final
-├── data/                  # Carpeta con datos originales y procesados
-├── models/                # Modelos y recursos adicionales
-├── utils/                 # Funciones auxiliares
-└── README.md              # Documento actual
-
-
 
 Notas adicionales
 - Es recomendable utilizar un entorno virtual (Conda o venv) para instalar las dependencias del proyecto.
