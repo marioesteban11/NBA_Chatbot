@@ -30,5 +30,3 @@ Esto iniciará la aplicación en Streamlit y permitirá interactuar con el chatb
 Notas adicionales
 - Es recomendable utilizar un entorno virtual (Conda o venv) para instalar las dependencias del proyecto.
 - En caso de cualquier incidencia, revisar las versiones de las librerías indicadas en el archivo requirements.txt.
-
-Si quieres, puedo añadir una sección de instalación de dependencias, una portada, un diagrama de flujo, o incluso un apartado de motivación y objetivos del proyecto.
